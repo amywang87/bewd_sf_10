@@ -16,8 +16,8 @@ BACK-END WEB DEVELOPMENT
 | 3 | Ruby Foundations| Scalar Objects: Numerics & Symbols. Collection Objects: Hashes. Control Flow Techniques| Wed. 08/05/2015 |
 | 4 | Ruby Foundations | Intro to API's with Ruby Foundations - Part 1|   Mon. 08/10/2015
 | 5 | Ruby Foundations | Intro to API's with Ruby Foundations - Part 2| Wed. 08/12/2015 |
-| 6 | Ruby Foundations | Object Oriented Concepts: Part 1  |  |
-| 7 | Ruby & Rails | Object Oriented Concepts: Part 2 ||
+| 6 | Ruby Foundations | Object Oriented Concepts: Part 1  | Mon. 8/17/2015 |
+| 7 | Ruby & Rails | Object Oriented Concepts: Part 2 | Wed. 8/19/2015 |
 | 8 | Ruby & Rails| MVC - Intro to the Controller | |
 | 9 | Project Proposal| Project Proposal Workshop| |
 | 10 | Ruby & Rails| MVC - Intro to the Model ||
